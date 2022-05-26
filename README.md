@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @93Start
-- 👀 I’m interested in IoT and Programing
-- 🌱 I’m currently Learning Python Programing
+- 👀 I’m interested in Data, IoT and Programing
+- 🌱 I’m currently Learning Python Programing, SQL, Cloud
 - 📫 How to reach me S.poolpong93@gmail.com
 
 <!---
